@@ -1,6 +1,6 @@
-# Learning Assistant
+# AI Problem Solver
 
-**Learning Assistant** is an interactive tool designed to help students and learners solve academic problems using advanced AI. It supports both image-based and speech-based input, utilizing the power of Google Gemini AI to analyze and solve various types of academic problems. The app provides real-time solutions and explanations, making learning more accessible and engaging.
+**AI Problem Solver** is an interactive tool designed to help students and learners solve academic problems using advanced AI. It supports both image-based and speech-based input, utilizing the power of Google Gemini AI to analyze and solve various types of academic problems. The app provides real-time solutions and explanations, making learning more accessible and engaging.
 
 ## Live Demo
 You can view the live version of the app by clicking the link below:
